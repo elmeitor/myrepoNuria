@@ -3,5 +3,5 @@
 ## Author information 
 Nuria RdAB
 ## Project description 
-Just a repo to learg about git
+Just a repo to learn about git
 
